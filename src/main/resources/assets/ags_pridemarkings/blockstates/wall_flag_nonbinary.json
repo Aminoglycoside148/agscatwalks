@@ -1,0 +1,20 @@
+{
+
+  "variants" : {
+    "facing=north": {
+      "model": "ags_pridemarkings:block/wall_flag_nonbinary"
+    },
+    "facing=south": {
+      "model": "ags_pridemarkings:block/wall_flag_nonbinary",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ags_pridemarkings:block/wall_flag_nonbinary",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ags_pridemarkings:block/wall_flag_nonbinary",
+      "y": 270
+    }
+  }
+}

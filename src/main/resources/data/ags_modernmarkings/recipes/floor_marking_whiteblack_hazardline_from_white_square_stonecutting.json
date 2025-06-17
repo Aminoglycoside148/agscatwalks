@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "ags_modernmarkings:floor_marking_white_square"
-  },
-  "result": "ags_modernmarkings:floor_marking_whiteblack_hazardline"
-}

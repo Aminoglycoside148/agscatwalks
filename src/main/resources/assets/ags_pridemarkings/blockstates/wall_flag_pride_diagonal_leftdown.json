@@ -1,0 +1,20 @@
+{
+
+  "variants" : {
+    "facing=north": {
+      "model": "ags_pridemarkings:block/wall_flag_pride_diagonal_leftdown"
+    },
+    "facing=south": {
+      "model": "ags_pridemarkings:block/wall_flag_pride_diagonal_leftdown",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ags_pridemarkings:block/wall_flag_pride_diagonal_leftdown",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ags_pridemarkings:block/wall_flag_pride_diagonal_leftdown",
+      "y": 270
+    }
+  }
+}

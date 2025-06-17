@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ags_pridemarkings:block/marking_wall_voltage_uv"
+  }
+}
