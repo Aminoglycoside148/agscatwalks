@@ -1,32 +1,28 @@
 {
-  "item.ags_pridemarkings.chalk": "Chalk",
+  "item.ags_pridemarkings.chalk": "Rainbow Chalk",
 
+  "block.ags_pridemarkings.wall_flag_pride_horizontal": "Pride Flag",
+  "block.ags_pridemarkings.wall_flag_pride_vertical": "Vertical Pride Flag",
+  "block.ags_pridemarkings.wall_flag_pride_cross": "Crossing Pride Flag",
 
+  "block.ags_pridemarkings.wall_flag_pride_diagonal_leftdown": "Diagonal Left-Down Pride Flag",
+  "block.ags_pridemarkings.wall_flag_pride_diagonal_rightdown": "Diagonal Right-Down Pride Flag",
+  "block.ags_pridemarkings.wall_flag_pride_diagonal_leftup": "Diagonal Left-Up Pride Flag",
+  "block.ags_pridemarkings.wall_flag_pride_diagonal_rightup": "Diagonal Right-Up Pride Flag",
 
-  "block.ags_pridemarkings.floor_marking_nostep": "No Step Floor Marking",
-  "block.ags_pridemarkings.floor_marking_white_arrow": "White Arrow Floor Marking",
-  "block.ags_pridemarkings.floor_marking_white_double_arrow": "White Double Arrow Floor Marking",
-  "block.ags_pridemarkings.floor_marking_white_lane": "White Lane Floor Marking",
-  "block.ags_pridemarkings.floor_marking_white_square": "White Square Floor Marking",
-  "block.ags_pridemarkings.floor_marking_yellow_arrow": "Yellow Arrow Floor Marking",
-  "block.ags_pridemarkings.floor_marking_yellow_sideline": "Yellow Sideline Floor Marking",
-  "block.ags_pridemarkings.floor_marking_yellow_square": "Yellow Square Floor Marking",
-  "block.ags_pridemarkings.floor_marking_yellow_stripes": "Yellow Stripes Floor Marking",
+  "block.ags_pridemarkings.wall_flag_progressive_horizontal": "Progressive Flag",
+  "block.ags_pridemarkings.wall_flag_progressive_vertical": "Vertical Progressive Flag",
 
-  "block.ags_pridemarkings.floor_marking_black_singleline": "Black Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_blue_singleline": "Blue Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_green_singleline": "Green Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_orange_singleline": "Orange Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_white_singleline": "White Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_yellow_singleline": "Yellow Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_red_singleline": "Red Line Floor Marking",
-
-  "block.ags_pridemarkings.floor_marking_yellow_hazardline": "Yellow Hazard Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_red_hazardline": "Red Hazard Line Floor Marking",
-  "block.ags_pridemarkings.floor_marking_whiteblack_hazardline": "White Hazard Line Floor Marking",
-
-  "block.ags_pridemarkings.floor_marking_noentry": "No Entry Floor Marking",
-  "block.ags_pridemarkings.floor_marking_redx": "Red X Floor Marking",
+  "block.ags_pridemarkings.wall_flag_asexual": "Asexual Flag",
+  "block.ags_pridemarkings.wall_flag_agender": "Agender Flag",
+  "block.ags_pridemarkings.wall_flag_vincian": "Vincian Flag",
+  "block.ags_pridemarkings.wall_flag_trans": "Trans Flag",
+  "block.ags_pridemarkings.wall_flag_sapphic": "Sapphic Flag",
+  "block.ags_pridemarkings.wall_flag_polyamory": "Polyamory Flag",
+  "block.ags_pridemarkings.wall_flag_pansexual": "Pansexual Flag",
+  "block.ags_pridemarkings.wall_flag_nonbinary": "Nonbinary Flag",
+  "block.ags_pridemarkings.wall_flag_intersex": "Intersex Flag",
+  "block.ags_pridemarkings.wall_flag_bisexual": "Bisexual Flag",
 
 
 

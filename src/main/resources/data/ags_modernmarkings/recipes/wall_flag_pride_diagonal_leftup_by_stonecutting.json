@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ags_pridemarkings:wall_flag_pride_horizontal"
+  },
+  "result": "ags_pridemarkings:wall_flag_pride_diagonal_leftup"
+}

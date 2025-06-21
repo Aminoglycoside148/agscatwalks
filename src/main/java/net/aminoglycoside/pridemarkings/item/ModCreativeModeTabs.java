@@ -17,7 +17,7 @@ public class ModCreativeModeTabs {
     public static final RegistryObject<CreativeModeTab> PRIDE_MARKING_TAB = CREATIVE_MODE_TABS.register("pride_markings_tab",
             () -> CreativeModeTab.builder()
                     .icon(() -> new ItemStack(ModItems.CHALK.get()))
-                    .title(Component.translatable("creativetab.floor_markings"))
+                    .title(Component.translatable("creativetab.pride_markings"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.CHALK.get());
 
