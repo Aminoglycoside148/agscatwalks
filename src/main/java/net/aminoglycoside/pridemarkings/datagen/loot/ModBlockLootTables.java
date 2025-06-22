@@ -37,6 +37,7 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.WALL_FLAG_TRANS.get());
         this.dropSelf(ModBlocks.WALL_FLAG_SAPPHIC.get());
         this.dropSelf(ModBlocks.WALL_FLAG_POLYAMORY.get());
+        this.dropSelf(ModBlocks.WALL_FLAG_POLYAMORY_NEW.get());
         this.dropSelf(ModBlocks.WALL_FLAG_PANSEXUAL.get());
         this.dropSelf(ModBlocks.WALL_FLAG_NONBINARY.get());
         this.dropSelf(ModBlocks.WALL_FLAG_INTERSEX.get());

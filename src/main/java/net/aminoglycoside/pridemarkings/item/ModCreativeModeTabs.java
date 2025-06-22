@@ -39,6 +39,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.WALL_FLAG_TRANS.get());
                         pOutput.accept(ModBlocks.WALL_FLAG_SAPPHIC.get());
                         pOutput.accept(ModBlocks.WALL_FLAG_POLYAMORY.get());
+                        pOutput.accept(ModBlocks.WALL_FLAG_POLYAMORY_NEW.get());
                         pOutput.accept(ModBlocks.WALL_FLAG_PANSEXUAL.get());
                         pOutput.accept(ModBlocks.WALL_FLAG_NONBINARY.get());
                         pOutput.accept(ModBlocks.WALL_FLAG_INTERSEX.get());

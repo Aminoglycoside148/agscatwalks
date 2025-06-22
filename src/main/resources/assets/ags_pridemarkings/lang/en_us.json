@@ -10,8 +10,8 @@
   "block.ags_pridemarkings.wall_flag_pride_diagonal_leftup": "Diagonal Left-Up Pride Flag",
   "block.ags_pridemarkings.wall_flag_pride_diagonal_rightup": "Diagonal Right-Up Pride Flag",
 
-  "block.ags_pridemarkings.wall_flag_progressive_horizontal": "Progressive Flag",
-  "block.ags_pridemarkings.wall_flag_progressive_vertical": "Vertical Progressive Flag",
+  "block.ags_pridemarkings.wall_flag_progressive_horizontal": "Progress Flag",
+  "block.ags_pridemarkings.wall_flag_progressive_vertical": "Vertical Progress Flag",
 
   "block.ags_pridemarkings.wall_flag_asexual": "Asexual Flag",
   "block.ags_pridemarkings.wall_flag_agender": "Agender Flag",
@@ -19,6 +19,7 @@
   "block.ags_pridemarkings.wall_flag_trans": "Trans Flag",
   "block.ags_pridemarkings.wall_flag_sapphic": "Sapphic Flag",
   "block.ags_pridemarkings.wall_flag_polyamory": "Polyamory Flag",
+  "block.ags_pridemarkings.wall_flag_polyamory_new": "New Polyamory Flag",
   "block.ags_pridemarkings.wall_flag_pansexual": "Pansexual Flag",
   "block.ags_pridemarkings.wall_flag_nonbinary": "Nonbinary Flag",
   "block.ags_pridemarkings.wall_flag_intersex": "Intersex Flag",

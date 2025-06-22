@@ -122,6 +122,12 @@ public class ModBlocks {
                     .noOcclusion()
                     .noCollission()),"tooltip.ags_pridemarkings.wallmarking_prideflag");
 
+    public static final RegistryObject <Block> WALL_FLAG_POLYAMORY_NEW = registerBlock("wall_flag_polyamory_new",
+            () -> new MarkingWall(BlockBehaviour.Properties.of()
+                    .sound(SoundType.WOOL)
+                    .noOcclusion()
+                    .noCollission()),"tooltip.ags_pridemarkings.wallmarking_prideflag");
+
     public static final RegistryObject <Block> WALL_FLAG_PANSEXUAL = registerBlock("wall_flag_pansexual",
             () -> new MarkingWall(BlockBehaviour.Properties.of()
                     .sound(SoundType.WOOL)
