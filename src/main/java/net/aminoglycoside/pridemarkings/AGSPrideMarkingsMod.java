@@ -26,9 +26,9 @@ public class AGSPrideMarkingsMod
     private static final Logger LOGGER = LogUtils.getLogger();
 
 
-    public AGSPrideMarkingsMod(FMLJavaModLoadingContext context)
+    public AGSPrideMarkingsMod()
     {
-        IEventBus modEventBus = context.getModEventBus();
+        IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModCreativeModeTabs.register(modEventBus);
         ModItems.register(modEventBus);
