@@ -40,9 +40,9 @@ public class RailingStairs extends HorizontalDirectionalBlock {
         switch (direction) {
             case NORTH: return CombineShape(CombineShape(Block.box(15.0, -8.0, 0.0, 17.0, 8, 8.0), Block.box(-1.0, -8.0, 0.0, 1.0, 8, 8.0)), CombineShape(Block.box(15.0, 0.0, 8.0, 17.0, 16, 16.0), Block.box(0.0, -1.0, 8.0, 1.0, 16, 16.0)));
             case SOUTH: return CombineShape(CombineShape(Block.box(15.0, -8.0, 8.0, 17.0, 8, 16), Block.box(-1.0, -8.0, 8, 1.0, 8, 16)), CombineShape(Block.box(15.0, 0.0, 0, 17.0, 16, 8), Block.box(0.0, -1.0, 0, 1.0, 16, 8)));
-            case EAST: return CombineShape(CombineShape(Block.box(0, -8, 15, 8, 8, 17), Block.box(0, -8, -1, 8, 8, 1)), CombineShape(Block.box(8, 0, 15, 16, 16, 17), Block.box(8, 0, -1, 16, 16, 1)));
-            case WEST: return CombineShape(CombineShape(Block.box(8, -8, 15, 16, 8, 17), Block.box(8, -8, -1, 16, 8, 1)), CombineShape(Block.box(0, 0, 15, 8, 16, 17), Block.box(0, 0, -1, 8, 16, 1)));
-            default: return CombineShape(CombineShape(Block.box(15.0, -8.0, 0.0, 17.0, 8, 8.0), Block.box(-1.0, -8.0, 0.0, 1.0, 8, 8.0)), CombineShape(Block.box(15.0, 0.0, 8.0, 17.0, 16, 16.0), Block.box(0.0, -1.0, 8.0, 1.0, 16, 16.0))); // Fallback
+            case EAST: return CombineShape(CombineShape(Block.box(8, -8, 15, 16, 8, 17), Block.box(8, -8, -1, 16, 8, 1)), CombineShape(Block.box(0, 0, 15, 8, 16, 17), Block.box(0, 0, -1, 8, 16, 1)));
+            case WEST: return CombineShape(CombineShape(Block.box(0, -8, 15, 8, 8, 17), Block.box(0, -8, -1, 8, 8, 1)), CombineShape(Block.box(8, 0, 15, 16, 16, 17), Block.box(8, 0, -1, 16, 16, 1)));
+       default: return CombineShape(CombineShape(Block.box(15.0, -8.0, 0.0, 17.0, 8, 8.0), Block.box(-1.0, -8.0, 0.0, 1.0, 8, 8.0)), CombineShape(Block.box(15.0, 0.0, 8.0, 17.0, 16, 16.0), Block.box(0.0, -1.0, 8.0, 1.0, 16, 16.0))); // Fallback
         }
     }
 

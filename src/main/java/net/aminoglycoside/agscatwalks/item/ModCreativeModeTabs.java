@@ -16,10 +16,9 @@ public class ModCreativeModeTabs {
 
     public static final RegistryObject<CreativeModeTab> AGS_CATWALKS_TAB = CREATIVE_MODE_TABS.register("agscatwalks_tab",
             () -> CreativeModeTab.builder()
-                    .icon(() -> new ItemStack(ModItems.CHALK.get()))
+                    .icon(() -> new ItemStack(ModBlocks.CATWALK_FLOOR_GRATE.get()))
                     .title(Component.translatable("creativetab.ags_catwalks"))
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(ModItems.CHALK.get());
 
                         pOutput.accept(ModBlocks.CATWALK_FLOOR_METAL.get());
                         pOutput.accept(ModBlocks.CATWALK_FLOOR_GRATE.get());

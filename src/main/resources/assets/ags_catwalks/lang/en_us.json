@@ -1,35 +1,38 @@
 {
   "item.ags_pridemarkings.chalk": "Rainbow Chalk",
 
-  "block.ags_pridemarkings.wall_flag_pride_horizontal": "Pride Flag",
-  "block.ags_pridemarkings.wall_flag_pride_vertical": "Vertical Pride Flag",
-  "block.ags_pridemarkings.wall_flag_pride_cross": "Crossing Pride Flag",
+  "block.ags_catwalks.catwalk_floor_grate": "Grate Catwalk Floor",
+  "block.ags_catwalks.catwalk_floor_metal": "Steel Catwalk Floor",
+  "block.ags_catwalks.catwalk_floor_modern1": "Modern Catwalk Floor",
+  "block.ags_catwalks.catwalk_floor_modern2": "Modern Catwalk Floor 2",
 
-  "block.ags_pridemarkings.wall_flag_pride_diagonal_leftdown": "Diagonal Left-Down Pride Flag",
-  "block.ags_pridemarkings.wall_flag_pride_diagonal_rightdown": "Diagonal Right-Down Pride Flag",
-  "block.ags_pridemarkings.wall_flag_pride_diagonal_leftup": "Diagonal Left-Up Pride Flag",
-  "block.ags_pridemarkings.wall_flag_pride_diagonal_rightup": "Diagonal Right-Up Pride Flag",
+  "block.ags_catwalks.catwalk_stairs_grate": "Grate Catwalk Stairs",
+  "block.ags_catwalks.catwalk_stairs_metal": "Steel Catwalk Stairs",
+  "block.ags_catwalks.catwalk_stairs_modern1": "Modern Catwalk Stairs",
+  "block.ags_catwalks.catwalk_stairs_modern2": "Modern Catwalk Stairs 2",
 
-  "block.ags_pridemarkings.wall_flag_progressive_horizontal": "Progress Flag",
-  "block.ags_pridemarkings.wall_flag_progressive_vertical": "Vertical Progress Flag",
+  "block.ags_catwalks.railing_single_metal": "Steel Railing Single",
+  "block.ags_catwalks.railing_lane_metal": "Steel Railing Lane",
+  "block.ags_catwalks.railing_corner_metal": "Steel Railing Corner",
+  "block.ags_catwalks.railing_end_metal": "Steel Railing End",
+  "block.ags_catwalks.railing_stairs_metal": "Steel Railing Stairs",
 
-  "block.ags_pridemarkings.wall_flag_asexual": "Asexual Flag",
-  "block.ags_pridemarkings.wall_flag_agender": "Agender Flag",
-  "block.ags_pridemarkings.wall_flag_vincian": "Vincian Flag",
-  "block.ags_pridemarkings.wall_flag_trans": "Trans Flag",
-  "block.ags_pridemarkings.wall_flag_sapphic": "Sapphic Flag",
-  "block.ags_pridemarkings.wall_flag_polyamory": "Polyamory Flag",
-  "block.ags_pridemarkings.wall_flag_polyamory_new": "New Polyamory Flag",
-  "block.ags_pridemarkings.wall_flag_pansexual": "Pansexual Flag",
-  "block.ags_pridemarkings.wall_flag_nonbinary": "Nonbinary Flag",
-  "block.ags_pridemarkings.wall_flag_intersex": "Intersex Flag",
-  "block.ags_pridemarkings.wall_flag_bisexual": "Bisexual Flag",
+  "block.ags_catwalks.railing_single_modern1": "Modern Railing Single",
+  "block.ags_catwalks.railing_lane_modern1": "Modern Railing Lane",
+  "block.ags_catwalks.railing_corner_modern1": "Modern Railing Corner",
+  "block.ags_catwalks.railing_end_modern1": "Modern Railing End",
+  "block.ags_catwalks.railing_stairs_modern1": "Modern Railing Stairs",
 
-
+  "block.ags_catwalks.railing_single_modern2": "Modern Railing Single 2",
+  "block.ags_catwalks.railing_lane_modern2": "Modern Railing Lane 2",
+  "block.ags_catwalks.railing_corner_modern2": "Modern Railing Corner 2",
+  "block.ags_catwalks.railing_end_modern2": "Modern Railing End 2",
+  "block.ags_catwalks.railing_stairs_modern2": "Modern Railing Stairs 2",
 
   "creativetab.ags_catwalks": "Catwalks and Railings",
 
-  "tooltip.ags_pridemarkings.wallmarking_prideflag": "A Pride Flag Marking"
+  "tooltip.ags_catwalks.catwalkfloor": "A Catwalk Floor",
+  "tooltip.ags_catwalks.railing": "A Railing"
 
 
 

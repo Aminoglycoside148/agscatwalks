@@ -25,7 +25,7 @@ public class RailingSingle extends HorizontalDirectionalBlock {
     }
 
 
-    private static final VoxelShape SHAPE_E = Block.box(0.0, -1.0, 0.0, 1.0, 16, 16.0);
+    private static final VoxelShape SHAPE_E = Block.box(-1.0, 0.0, 0.0, 1.0, 16, 16.0);
     private static final VoxelShape SHAPE_W = Block.box(15.0, 0.0, 0.0, 17.0, 16, 16.0);
     private static final VoxelShape SHAPE_N = Block.box(0.0, 0.0, 15.0, 16.0, 16, 17.0);
     private static final VoxelShape SHAPE_S = Block.box(0.0, 0.0, -1, 16.0, 16, 1);

@@ -12,8 +12,6 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, AGSCatwalksMod.MODID);
 
 
-    public static final RegistryObject<Item> CHALK = ITEMS.register("chalk",
-      () -> new Item (new Item.Properties()));
 
     //add item register stuff like
     //public static final RegistryObject<Item> SAPPHIRE = ITEMS.register(name:"Sapphire",
