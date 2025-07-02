@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "ags_pridemarkings:block/wall_flag_pride_diagonal_rightdown"
-  }
-}

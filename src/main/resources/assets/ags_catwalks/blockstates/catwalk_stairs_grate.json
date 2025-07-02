@@ -1,0 +1,20 @@
+{
+
+  "variants" : {
+    "facing=north": {
+      "model": "ags_catwalks:block/catwalk_stairs_grate"
+    },
+    "facing=south": {
+      "model": "ags_catwalks:block/catwalk_stairs_grate",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ags_catwalks:block/catwalk_stairs_grate",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ags_catwalks:block/catwalk_stairs_grate",
+      "y": 270
+    }
+  }
+}

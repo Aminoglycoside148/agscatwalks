@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ags_catwalks:catwalk_floor_metal"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "ags_catwalks:catwalk_floor_grate"
+  }
+}

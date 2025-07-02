@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "T": {
+      "item": "minecraft:iron_trapdoor"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "ITI"
+  ],
+  "result": {
+    "item": "ags_catwalks:catwalk_floor_metal",
+    "count": 16
+  }
+}
