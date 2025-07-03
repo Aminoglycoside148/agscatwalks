@@ -22,36 +22,63 @@ public class ModCreativeModeTabs {
 
                         pOutput.accept(ModBlocks.CATWALK_FLOOR_METAL.get());
                         pOutput.accept(ModBlocks.CATWALK_FLOOR_GRATE.get());
-                        pOutput.accept(ModBlocks.CATWALK_FLOOR_MODERN1.get());
                         pOutput.accept(ModBlocks.CATWALK_FLOOR_MODERN2.get());
 
 
                         pOutput.accept(ModBlocks.CATWALK_STAIRS_METAL.get());
                         pOutput.accept(ModBlocks.CATWALK_STAIRS_GRATE.get());
-                        pOutput.accept(ModBlocks.CATWALK_STAIRS_MODERN1.get());
                         pOutput.accept(ModBlocks.CATWALK_STAIRS_MODERN2.get());
 
+                        pOutput.accept(ModBlocks.CATWALK_FLOOR_MODERN1.get());
+                        pOutput.accept(ModBlocks.CATWALK_STAIRS_MODERN1.get());
+                        pOutput.accept(ModBlocks.CATWALK_FLOOR_MODERN1_ORANGE.get());
+                        pOutput.accept(ModBlocks.CATWALK_STAIRS_MODERN1_ORANGE.get());
+                        pOutput.accept(ModBlocks.CATWALK_FLOOR_MODERN1_YELLOW.get());
+                        pOutput.accept(ModBlocks.CATWALK_STAIRS_MODERN1_YELLOW.get());
+
                         pOutput.accept(ModBlocks.RAILING_SINGLE_METAL.get());
-                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN1.get());
-                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN2.get());
-
                         pOutput.accept(ModBlocks.RAILING_LANE_METAL.get());
-                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN1.get());
-                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN2.get());
-
                         pOutput.accept(ModBlocks.RAILING_CORNER_METAL.get());
-                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN1.get());
-                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN2.get());
-
                         pOutput.accept(ModBlocks.RAILING_END_METAL.get());
-                        pOutput.accept(ModBlocks.RAILING_END_MODERN1.get());
-                        pOutput.accept(ModBlocks.RAILING_END_MODERN2.get());
-
                         pOutput.accept(ModBlocks.RAILING_STAIRS_METAL.get());
+
+                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN1.get());
+                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN1.get());
+                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN1.get());
+                        pOutput.accept(ModBlocks.RAILING_END_MODERN1.get());
                         pOutput.accept(ModBlocks.RAILING_STAIRS_MODERN1.get());
+
+
+                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN2.get());
+                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN2.get());
+                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN2.get());
+                        pOutput.accept(ModBlocks.RAILING_END_MODERN2.get());
                         pOutput.accept(ModBlocks.RAILING_STAIRS_MODERN2.get());
 
+                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN1_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN1_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN1_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_END_MODERN1_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_STAIRS_MODERN1_ORANGE.get());
 
+                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN1_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN1_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN1_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_END_MODERN1_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_STAIRS_MODERN1_YELLOW.get());
+
+
+                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN2_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN2_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN2_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_END_MODERN2_ORANGE.get());
+                        pOutput.accept(ModBlocks.RAILING_STAIRS_MODERN2_ORANGE.get());
+
+                        pOutput.accept(ModBlocks.RAILING_SINGLE_MODERN2_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_LANE_MODERN2_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_CORNER_MODERN2_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_END_MODERN2_YELLOW.get());
+                        pOutput.accept(ModBlocks.RAILING_STAIRS_MODERN2_YELLOW.get());
 
                     })
                             .build());

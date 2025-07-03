@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"item": "ags_catwalks:catwalk_floor_modern1"},
+    {"tag": "forge:dyes/orange"}
+  ],
+  "result": {
+    "count": 8,
+    "item": "ags_catwalks:catwalk_floor_modern1_orange"
+  }
+}

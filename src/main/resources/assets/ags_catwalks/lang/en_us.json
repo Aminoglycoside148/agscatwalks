@@ -4,11 +4,15 @@
   "block.ags_catwalks.catwalk_floor_grate": "Grate Catwalk Floor",
   "block.ags_catwalks.catwalk_floor_metal": "Steel Catwalk Floor",
   "block.ags_catwalks.catwalk_floor_modern1": "Modern Catwalk Floor",
+  "block.ags_catwalks.catwalk_floor_modern1_orange": "Orange Modern Catwalk Floor",
+  "block.ags_catwalks.catwalk_floor_modern1_yellow": "Yellow Modern Catwalk Floor",
   "block.ags_catwalks.catwalk_floor_modern2": "Modern Catwalk Floor 2",
 
   "block.ags_catwalks.catwalk_stairs_grate": "Grate Catwalk Stairs",
   "block.ags_catwalks.catwalk_stairs_metal": "Steel Catwalk Stairs",
   "block.ags_catwalks.catwalk_stairs_modern1": "Modern Catwalk Stairs",
+  "block.ags_catwalks.catwalk_stairs_modern1_orange": "Orange Modern Catwalk Stairs",
+  "block.ags_catwalks.catwalk_stairs_modern1_yellow": "Yellow Modern Catwalk Stairs",
   "block.ags_catwalks.catwalk_stairs_modern2": "Modern Catwalk Stairs 2",
 
   "block.ags_catwalks.railing_single_metal": "Steel Railing Single",
@@ -28,6 +32,31 @@
   "block.ags_catwalks.railing_corner_modern2": "Modern Railing Corner 2",
   "block.ags_catwalks.railing_end_modern2": "Modern Railing End 2",
   "block.ags_catwalks.railing_stairs_modern2": "Modern Railing Stairs 2",
+
+  "block.ags_catwalks.railing_single_modern1_orange": "Orange Modern Railing Single",
+  "block.ags_catwalks.railing_lane_modern1_orange": "Orange Modern Railing Lane",
+  "block.ags_catwalks.railing_corner_modern1_orange": "Orange Modern Railing Corner",
+  "block.ags_catwalks.railing_end_modern1_orange": "Orange Modern Railing End",
+  "block.ags_catwalks.railing_stairs_modern1_orange": "Orange Modern Railing Stairs",
+
+  "block.ags_catwalks.railing_single_modern1_yellow": "Yellow Modern Railing Single",
+  "block.ags_catwalks.railing_lane_modern1_yellow": "Yellow Modern Railing Lane",
+  "block.ags_catwalks.railing_corner_modern1_yellow": "Yellow Modern Railing Corner",
+  "block.ags_catwalks.railing_end_modern1_yellow": "Yellow Modern Railing End",
+  "block.ags_catwalks.railing_stairs_modern1_yellow": "Yellow Modern Railing Stairs",
+
+  "block.ags_catwalks.railing_single_modern2_orange": "Orange Modern Railing Single 2",
+  "block.ags_catwalks.railing_lane_modern2_orange": "Orange Modern Railing Lane 2",
+  "block.ags_catwalks.railing_corner_modern2_orange": "Orange Modern Railing Corner 2",
+  "block.ags_catwalks.railing_end_modern2_orange": "Orange Modern Railing End 2",
+  "block.ags_catwalks.railing_stairs_modern2_orange": "Orange Modern Railing Stairs 2",
+
+  "block.ags_catwalks.railing_single_modern2_yellow": "Yellow Modern Railing Single 2",
+  "block.ags_catwalks.railing_lane_modern2_yellow": "Yellow Modern Railing Lane 2",
+  "block.ags_catwalks.railing_corner_modern2_yellow": "Yellow Modern Railing Corner 2",
+  "block.ags_catwalks.railing_end_modern2_yellow": "Yellow Modern Railing End 2",
+  "block.ags_catwalks.railing_stairs_modern2_yellow": "Yellow Modern Railing Stairs 2",
+
 
   "creativetab.ags_catwalks": "Catwalks and Railings",
 

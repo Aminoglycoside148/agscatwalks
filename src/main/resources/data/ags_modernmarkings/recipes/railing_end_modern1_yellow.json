@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "ags_catwalks:catwalk_floor_modern1_yellow"
+  },
+  "result": "ags_catwalks:railing_end_modern1_yellow"
+}

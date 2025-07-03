@@ -1,0 +1,20 @@
+{
+
+  "variants" : {
+    "facing=north": {
+      "model": "ags_catwalks:block/catwalk_floor_modern1_yellow"
+    },
+    "facing=south": {
+      "model": "ags_catwalks:block/catwalk_floor_modern1_yellow",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ags_catwalks:block/catwalk_floor_modern1_yellow",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ags_catwalks:block/catwalk_floor_modern1_yellow",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+
+  "variants" : {
+    "facing=north": {
+      "model": "ags_catwalks:block/railing_single_modern1_orange"
+    },
+    "facing=south": {
+      "model": "ags_catwalks:block/railing_single_modern1_orange",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "ags_catwalks:block/railing_single_modern1_orange",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "ags_catwalks:block/railing_single_modern1_orange",
+      "y": 270
+    }
+  }
+}
