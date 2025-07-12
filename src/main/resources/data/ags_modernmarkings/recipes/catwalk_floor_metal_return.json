@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "key": {
+    "I": {
+      "tag": "ags_catwalks:catwalkitems"
+    }
+  },
+  "pattern": [
+    "II ",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "item": "ags_catwalks:catwalk_floor_metal",
+    "count": 2
+  }
+}

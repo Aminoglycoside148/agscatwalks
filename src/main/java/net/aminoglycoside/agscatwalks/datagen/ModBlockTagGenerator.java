@@ -2,6 +2,7 @@ package net.aminoglycoside.agscatwalks.datagen;
 
 import net.aminoglycoside.agscatwalks.AGSCatwalksMod;
 import net.aminoglycoside.agscatwalks.block.ModBlocks;
+import net.aminoglycoside.agscatwalks.util.ModTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
 import net.minecraft.tags.BlockTags;
@@ -77,5 +78,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
         ModBlocks.RAILING_END_MODERN2_YELLOW.get(),
         ModBlocks.RAILING_STAIRS_MODERN2_YELLOW.get()
         );
+
+
     }
 }
